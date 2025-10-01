@@ -1,1 +1,1 @@
-cd foldername, cd .., cd . , cd /path/etc/folder
+cd stands for change directory and it moves you between folders on your system.

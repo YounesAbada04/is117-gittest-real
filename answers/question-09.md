@@ -1,1 +1,1 @@
-you create a directory using mkdir. 
+You create a directory using the mkdir command, which makes a new folder. 
