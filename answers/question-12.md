@@ -1,1 +1,1 @@
-cp copys a folder/file.  mv moves a file/folder
+cp copies the given folder/file.  mv moves the given file/folder
